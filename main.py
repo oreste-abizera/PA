@@ -52,7 +52,7 @@ def takeCommand():
         return statement
 
 print("Loading your AI personal assistant Oreste PA")
-speak("Loading your AI personal assistant Oreste PA")
+speak("Loading your AI personal assistant - Oreste PA")
 wishMe()
 
 
